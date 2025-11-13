@@ -117,10 +117,8 @@ Future Extension Ideas
 
 ---
 
-Author & License
+License
 ----------------
-📘 Author: [https://github.com/Faresincode/]  
-🗓️ Version: 1.0  
 📄 License: MIT License  
 
 Open-source, free to use for educational or personal development. 🎓
